@@ -263,6 +263,5 @@ void SimpleChart::resizeEvent(QResizeEvent *event)
    view->resize(this->width(), this->height());
    QWidget::resizeEvent(event);
 
-
 }
 
